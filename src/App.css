@@ -74,6 +74,14 @@ input[type="text"] {
   perspective: 1000px;
 }
 
+.card-quote {
+  cursor: pointer;
+  background-color: transparent;
+  width: 100%;
+  height: 50px;
+  perspective: 1000px;
+}
+
 .card h1 {
   font-size: 25px;
   border-bottom: 1px #fff solid;
